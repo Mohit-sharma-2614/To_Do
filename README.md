@@ -1,5 +1,9 @@
 This is a Kotlin Multiplatform project targeting Android.
 
+
+A simple Demo App to showcase the ability of KMP + CMP in real life projects. The App is totally built for Android only but Used the Common Main Package to do the work which is the Shared module for code b/w different platforms.
+
+
 This is a simple use case of KMP + CMP
 Here we define a `Task` model that we want to store in Firebase.
 Firebase is by default supported Natively on Android and IOS but, when we want to use it in a common b/w different platform this can not
